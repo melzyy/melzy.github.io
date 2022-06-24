@@ -1,8 +1,8 @@
 *{
 	margin: 0;
 	padding: 0;
-	src: url("../fonts/JetBrainsMono-Regular.ttf") format('truetype');
-	font: bold 36px "JetBrains Mono", sans-serif;
+	src: url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@600&display=swap');
+	font: bold 36px "JetBrains Mono", monospace;
 }
 .background{
 	width: 100%;
